@@ -1,4 +1,4 @@
-# Express Practice
+<!-- # Express Practice
 
 ## Setup
 
@@ -21,9 +21,9 @@ A web page has been created for us. Our job is to build the server.
 ### Body-parser
 
 * After "express.static", add body parser middleware to express
-  * Remember: `bodyParser.json()`
+  * Remember: `bodyParser.json()` -->
 
-### Create express routes to get all things
+<!-- ### Create express routes to get all things
 
 * Between lines 2 and 3, require the data from the following .js files:
   * /data/contacts
@@ -35,7 +35,7 @@ A web page has been created for us. Our job is to build the server.
   * "/vehicles"
   * "/comments"
   * "/products"
-* `res.json()` the appropriate array from the "require" statements above
+* `res.json()` the appropriate array from the "require" statements above -->
 
 ### Create express routes to get one thing
 
